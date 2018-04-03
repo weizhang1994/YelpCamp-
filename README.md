@@ -1,4 +1,4 @@
 # YelpCamp-
-This camp sites web project was created followed by Colt's Bootcamp
-Used node.js
-I also add extra styles for the YelpCamp 
+This webCMS project was created from scrach followed by Colt's Bootcamp course
+Use HTML, CSS, JavaScript, JQuery, Boostrap, NodeJs.
+
